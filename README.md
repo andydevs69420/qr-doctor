@@ -1,0 +1,2 @@
+# qr-doctor
+QrCode generator
