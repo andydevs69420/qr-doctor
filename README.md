@@ -1,5 +1,6 @@
 # qr-doctor
-QrCode generator (missing source code. can't reverse engineer :smiling_face_with_tear:).
+QrCode generator (missing source code. can't reverse engineer :smiling_face_with_tear:). 
+The size is so big it reaches 42mb because I forgot to flutetr clean :zipper_mouth_face:.
 
 ## Description :fire:
 A simple qr-code generator made with flutter and dart
